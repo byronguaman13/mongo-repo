@@ -1,0 +1,4 @@
+gunicorn
+Flask
+flask_mongoengine
+flask_cors
